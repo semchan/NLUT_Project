@@ -1,2 +1,3 @@
 # NLUT
-https://semchan.github.io/NULT/
+About
+https://semchan.github.io/NLUT_Project
